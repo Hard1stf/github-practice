@@ -3,4 +3,6 @@ Some Description.
 ---
 About Project and Mockups.
 ---
-Day-2 > Phase-3 > Module-1
+## feature in this README.md file:
+1. feature - 1
+2. feature - 2
