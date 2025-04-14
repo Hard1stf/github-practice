@@ -79,3 +79,22 @@ A growing list of useful commands with examples:
 
 This is where consistency beats complexity.  
 Let’s build one commit, one PR, and one skill at a time.  
+
+---
+# What is Open Source?
+
+Open Source refers to software whose source code is available to everyone. It can be viewed, modified, and distributed freely under licenses that comply with the Open Source Definition.
+
+### 🌟 Key Benefits of Open Source:
+- **Transparency:** Anyone can inspect the code and understand how it works.
+- **Collaboration:** Developers worldwide can contribute to the same project.
+- **Flexibility:** Users can modify the software to fit their needs.
+- **Learning Opportunity:** It's an excellent way for beginners to study real-world codebases.
+
+### 🔓 Common Open Source Licenses:
+- MIT License
+- GNU General Public License (GPL)
+- Apache License 2.0
+
+> "Open source is not just a license—it’s a way of life in the software world."
+
