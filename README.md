@@ -98,3 +98,27 @@ Open Source refers to software whose source code is available to everyone. It ca
 
 > "Open source is not just a license—it’s a way of life in the software world."
 
+---
+
+## How Does Open Source Contribution Work?
+
+Contributing to open source is a collaborative process. You don’t need to be an expert or write perfect code to get involved. Contributions can be as simple as fixing a typo or as big as building a new feature.
+
+### 🛠 Common Types of Contributions:
+- 📝 Documentation improvements
+- 🐛 Bug fixes
+- 🌟 New features
+- 🔧 Code refactoring
+- ✅ Test case improvements
+- 📦 Updating dependencies
+- 🧪 Reporting issues
+
+## 💡 Contribution Workflow (Simplified)
+
+1. **Fork the repository**  
+   Create a personal copy of the project on your GitHub account.
+
+2. **Clone the repository**  
+   Clone your fork locally using SSH or HTTPS.
+   ```bash
+   git clone git@github.com:your-username/repo-name.git
