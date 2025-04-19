@@ -122,3 +122,43 @@ Contributing to open source is a collaborative process. You don’t need to be a
    Clone your fork locally using SSH or HTTPS.
    ```bash
    git clone git@github.com:your-username/repo-name.git
+## 🧠 Essential Git & GitHub Concepts for Contributors
+
+Before diving deep into contributions, it's important to understand the tools of the trade. Git and GitHub are central to open source workflows.
+
+---
+
+### 🔁 Version Control with Git
+
+**Git** is a distributed version control system that tracks changes in your codebase.
+
+- **Repository (Repo):** A folder that Git tracks.
+- **Commit:** A snapshot of your code at a point in time.
+- **Branch:** A parallel version of your codebase for isolated changes.
+- **Merge:** Combining changes from different branches.
+- **Clone:** Copying a repository to your local machine.
+- **Fork:** A personal copy of someone else’s project.
+
+---
+
+### 🐙 Collaboration via GitHub
+
+**GitHub** is a platform that hosts Git repositories and adds collaboration features.
+
+- **Pull Request (PR):** A proposal to merge your branch into another.
+- **Issues:** Used to track bugs, features, or tasks.
+- **Review:** Feedback on a pull request before it’s merged.
+- **Star:** Bookmark or show appreciation for a repo.
+- **Watch:** Follow updates and notifications from a repo.
+
+---
+
+### 💡 Common Commands You’ll Use
+
+```bash
+git status           # Check what’s changed
+git add .            # Stage all changes
+git commit -m "msg"  # Save your changes with a message
+git push origin branch-name   # Upload your changes
+git pull             # Download updates from remote
+git checkout -b new-branch    # Create and switch to a branch
