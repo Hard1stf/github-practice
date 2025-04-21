@@ -50,8 +50,7 @@ This repo will also include a full learning track over time:
 
 ## 📅 Daily Log & Practice Notes
 
-Track of daily learning, ideas, and updates.
-
+> Track of daily learning, ideas, and updates.
 
 ---
 
@@ -156,9 +155,65 @@ Before diving deep into contributions, it's important to understand the tools of
 ### 💡 Common Commands You’ll Use
 
 ```bash
-git status           # Check what’s changed
-git add .            # Stage all changes
-git commit -m "msg"  # Save your changes with a message
+git status                    # Check what’s changed
+git add .                     # Stage all changes
+git commit -m "msg"           # Save your changes with a message
 git push origin branch-name   # Upload your changes
-git pull             # Download updates from remote
+git pull                      # Download updates from remote
 git checkout -b new-branch    # Create and switch to a branch
+```
+
+## 📘 Topic: What is Git? What is GitHub? (Differences & Relationship)
+
+---
+
+### 🔹 **What is Git?**
+> Git is a **distributed version control system** (VCS) used to **track changes in source code** during software development.
+
+#### 🧩 Key Features:
+- **Local-first**: You can commit, branch, and merge without internet access.
+- **History tracking**: Every change is stored in a snapshot (commit).
+- **Branching & merging**: Easy experimentation with branches.
+- **Open-source**: Created by Linus Torvalds (the creator of Linux) in 2005.
+
+#### 🛠️ Common Git Uses:
+- Initialize projects (`git init`)
+- Track file changes (`git add`, `git commit`)
+- Work on multiple features with branches
+- Revert or review code history
+
+---
+
+### 🔹 **What is GitHub?**
+> GitHub is a **cloud-based hosting platform** for Git repositories, focused on **collaboration** and **social coding**.
+
+#### ☁️ Core Functions:
+- Host Git repositories publicly or privately
+- Create Pull Requests (PRs) for contributions
+- Manage issues, bugs, and discussions
+- Visualize commit history and diffs
+- Use GitHub Actions for CI/CD
+
+#### 🧪 GitHub makes Git easier:
+- Centralizes collaboration
+- Provides a web UI
+- Integrates tools like project boards, wikis, PR reviews, CI/CD pipelines, and more
+
+---
+
+### 🔄 **Git vs GitHub: The Real Difference**
+
+| Feature       | Git                           | GitHub                                     |
+|---------------|-------------------------------|--------------------------------------------|
+| Type          | Version Control System        | Hosting & Collaboration Platform           |
+| Works Offline | Yes                           | No (Web-based)                             |
+| Role          | Manages code and history      | Hosts Git repos for teams                  |
+| Created By    | Linus Torvalds                | Tom Preston-Werner, GitHub, Inc.           |
+| Release Year  | 2005                          | 2008                                       |
+
+---
+
+### 🔗 Relationship:
+You use **Git** locally to manage your project → then **GitHub** to share, review, and collaborate with others remotely.
+
+--
