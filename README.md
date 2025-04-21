@@ -50,8 +50,7 @@ This repo will also include a full learning track over time:
 
 ## 📅 Daily Log & Practice Notes
 
-Track of daily learning, ideas, and updates.
-
+> Track of daily learning, ideas, and updates.
 
 ---
 
@@ -156,11 +155,11 @@ Before diving deep into contributions, it's important to understand the tools of
 ### 💡 Common Commands You’ll Use
 
 ```bash
-git status           # Check what’s changed
-git add .            # Stage all changes
-git commit -m "msg"  # Save your changes with a message
+git status                    # Check what’s changed
+git add .                     # Stage all changes
+git commit -m "msg"           # Save your changes with a message
 git push origin branch-name   # Upload your changes
-git pull             # Download updates from remote
+git pull                      # Download updates from remote
 git checkout -b new-branch    # Create and switch to a branch
 ```
 
@@ -217,10 +216,4 @@ git checkout -b new-branch    # Create and switch to a branch
 ### 🔗 Relationship:
 You use **Git** locally to manage your project → then **GitHub** to share, review, and collaborate with others remotely.
 
----
-
-### ✅ Commit Instruction
-You can now create a commit on your `docs/git-vs-github-basics` branch with this content:
-
-```bash
-git checkout -b docs/git-vs-github-basics  # if not already created
+--
