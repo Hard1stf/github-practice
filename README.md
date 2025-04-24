@@ -216,4 +216,4 @@ git checkout -b new-branch    # Create and switch to a branch
 ### 🔗 Relationship:
 You use **Git** locally to manage your project → then **GitHub** to share, review, and collaborate with others remotely.
 
---
+
