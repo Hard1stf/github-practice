@@ -216,4 +216,10 @@ git checkout -b new-branch    # Create and switch to a branch
 ### 🔗 Relationship:
 You use **Git** locally to manage your project → then **GitHub** to share, review, and collaborate with others remotely.
 
+---
 
+# 🌍 Why Should You Contribute to Open Source?
+
+Open-source software is more than just publicly available code — it’s a global movement based on transparency, collaboration, and community.
+
+---
